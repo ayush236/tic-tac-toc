@@ -57,9 +57,9 @@ const checkwinner = ()=>{
                 
             }
         }
-       checkdraw();
 
     }
+
 }
 
 const showingwinner = (winner)=>{
@@ -83,6 +83,3 @@ turn0 = true;
 
 });
 
-const checkdraw =()=>{
-    op.innerText="game is draw";
-}
