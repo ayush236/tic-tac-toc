@@ -65,6 +65,7 @@ const checkwinner = ()=>{
 const showingwinner = (winner)=>{
     op.innerText=`winner is ${winner}`;
     
+    
 };
 
 const disabledbox =() =>{
